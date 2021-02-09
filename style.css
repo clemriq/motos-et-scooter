@@ -1,0 +1,18 @@
+Body
+{ background-image:url(Photoss/Look-earth-from-the-moon_2880x1800.jpg)}
+
+#Titre1
+{
+   color: red;
+    text-shadow: 10px 10px white;
+    font-size: 110px;
+    text-align: center;
+}
+
+#conteneur
+{ display:flex;
+    justify-content:space-around;
+    flex-direction:row;
+    -webkit-margin-start: 40px;
+-webkit-margin-end: 850px;
+}
